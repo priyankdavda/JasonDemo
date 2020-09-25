@@ -1,0 +1,20 @@
+[{
+	"name":"Priyank",
+	"address":"Porbandar",
+	"isProgrammer":ture
+},
+{
+	"name":"Nayan",
+	"address":"Rajkot",
+	"isProgrammer":ture
+},
+{
+	"name":"hitendra",
+	"address":"surat",
+	"isProgrammer":"false"
+},
+{
+	"name":"yash",
+	"address":"rajkot",
+	"isProgrammer":"ture"
+}]
