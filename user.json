@@ -1,12 +1,12 @@
 [{
 	"name":"Priyank",
 	"address":"Porbandar",
-	"isProgrammer":ture
+	"isProgrammer":"ture"
 },
 {
 	"name":"Nayan",
 	"address":"Rajkot",
-	"isProgrammer":ture
+	"isProgrammer":"ture"
 },
 {
 	"name":"hitendra",
